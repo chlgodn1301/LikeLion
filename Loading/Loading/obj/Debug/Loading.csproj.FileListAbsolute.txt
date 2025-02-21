@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\Loading\Loading\bin\Debug\Loading.exe.config
+C:\GitHub\LikeLion\Loading\Loading\bin\Debug\Loading.exe
+C:\GitHub\LikeLion\Loading\Loading\bin\Debug\Loading.pdb
+C:\GitHub\LikeLion\Loading\Loading\obj\Debug\Loading.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\Loading\Loading\obj\Debug\Loading.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\Loading\Loading\obj\Debug\Loading.exe
+C:\GitHub\LikeLion\Loading\Loading\obj\Debug\Loading.pdb
