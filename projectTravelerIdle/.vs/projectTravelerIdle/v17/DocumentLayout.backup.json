@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\LikeLion\\projectTravelerIdle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1539EA58-E3ED-488F-9015-BC56D944BA3B}|projectTravelerIdle\\projectTravelerIdle.csproj|c:\\github\\likelion\\projecttraveleridle\\projecttraveleridle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1539EA58-E3ED-488F-9015-BC56D944BA3B}|projectTravelerIdle\\projectTravelerIdle.csproj|solutionrelative:projecttraveleridle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\LikeLion\\projectTravelerIdle\\projectTravelerIdle\\Program.cs",
+              "RelativeDocumentMoniker": "projectTravelerIdle\\Program.cs",
+              "ToolTip": "C:\\GitHub\\LikeLion\\projectTravelerIdle\\projectTravelerIdle\\Program.cs",
+              "RelativeToolTip": "projectTravelerIdle\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:03:23.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

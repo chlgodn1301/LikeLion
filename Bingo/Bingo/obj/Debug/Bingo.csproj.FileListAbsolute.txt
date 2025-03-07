@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\GitHub\LikeLion\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\GitHub\LikeLion\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\GitHub\LikeLion\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\GitHub\LikeLion\Bingo\Bingo\obj\Debug\Bingo.pdb

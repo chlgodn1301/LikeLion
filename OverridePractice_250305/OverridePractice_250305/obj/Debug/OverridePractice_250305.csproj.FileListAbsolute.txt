@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\OverridePractice_250305\OverridePractice_250305\obj\Debug\OverridePractice_250305.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\OverridePractice_250305\OverridePractice_250305\obj\Debug\OverridePractice_250305.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\OverridePractice_250305\OverridePractice_250305\bin\Debug\OverridePractice_250305.exe.config
+C:\GitHub\LikeLion\OverridePractice_250305\OverridePractice_250305\bin\Debug\OverridePractice_250305.exe
+C:\GitHub\LikeLion\OverridePractice_250305\OverridePractice_250305\bin\Debug\OverridePractice_250305.pdb
+C:\GitHub\LikeLion\OverridePractice_250305\OverridePractice_250305\obj\Debug\OverridePractice_250305.exe
+C:\GitHub\LikeLion\OverridePractice_250305\OverridePractice_250305\obj\Debug\OverridePractice_250305.pdb

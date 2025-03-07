@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\LikeLion\\TextRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|c:\\github\\likelion\\textrpg\\textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|c:\\github\\likelion\\textrpg\\textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|c:\\github\\likelion\\textrpg\\textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|c:\\github\\likelion\\textrpg\\textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|c:\\github\\likelion\\textrpg\\textrpg\\plyaer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\plyaer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|c:\\github\\likelion\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7EDE4A-D725-4D66-8A08-2DC6B24FC35D}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\Monster.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Monster.cs",
+              "ToolTip": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\Monster.cs*",
+              "RelativeToolTip": "TextRPG\\Monster.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:04:01.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\Field.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Field.cs",
+              "ToolTip": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\Field.cs",
+              "RelativeToolTip": "TextRPG\\Field.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwDoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:03:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\INFO.cs",
+              "RelativeDocumentMoniker": "TextRPG\\INFO.cs",
+              "ToolTip": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\INFO.cs",
+              "RelativeToolTip": "TextRPG\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:44:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\MainGame.cs",
+              "RelativeDocumentMoniker": "TextRPG\\MainGame.cs",
+              "ToolTip": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\MainGame.cs",
+              "RelativeToolTip": "TextRPG\\MainGame.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:32:10.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Plyaer.cs",
+              "DocumentMoniker": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\Plyaer.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Plyaer.cs",
+              "ToolTip": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\Plyaer.cs",
+              "RelativeToolTip": "TextRPG\\Plyaer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:13:04.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\Program.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Program.cs",
+              "ToolTip": "C:\\GitHub\\LikeLion\\TextRPG\\TextRPG\\Program.cs",
+              "RelativeToolTip": "TextRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:06:24.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

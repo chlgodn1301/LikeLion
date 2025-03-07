@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\Practice_250304\Practice_250304\bin\Debug\Practice_250304.exe.config
+C:\GitHub\LikeLion\Practice_250304\Practice_250304\bin\Debug\Practice_250304.exe
+C:\GitHub\LikeLion\Practice_250304\Practice_250304\bin\Debug\Practice_250304.pdb
+C:\GitHub\LikeLion\Practice_250304\Practice_250304\obj\Debug\Practice_250304.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\Practice_250304\Practice_250304\obj\Debug\Practice_250304.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\Practice_250304\Practice_250304\obj\Debug\Practice_250304.exe
+C:\GitHub\LikeLion\Practice_250304\Practice_250304\obj\Debug\Practice_250304.pdb

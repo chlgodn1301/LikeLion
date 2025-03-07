@@ -12,19 +12,62 @@ namespace TodayTask01
         {
             // 로딩바 시작화면
             // 게임 스토리 1
+            //콘솔 창 크기 설정 
+            Console.SetWindowSize(80, 25); //x 80 , y 25
 
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("             Escape Dungeon              ");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("Enter 입력 시 진행됩니다.");
+            //콘솔 버퍼 크기도 설정 (스크롤없이 고정된 창 유지)
+            Console.SetBufferSize(80, 25);
+            Console.SetCursorPosition(0, 0);
+            Console.Write("┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓");
+            Console.SetCursorPosition(0, 1);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 2);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 3);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 4);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 4);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 5);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 6);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 7);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 8);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 9);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 10);
+            Console.Write("┃                              Escape Dungeon                                 ┃");
+            Console.SetCursorPosition(0, 11);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 12);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 13);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 14);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 15);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 16);
+            Console.Write("┃                                Press Enter                                  ┃");
+            Console.SetCursorPosition(0, 17);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 18);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 19);
+            Console.Write("┃                                                                             ┃");
+            Console.SetCursorPosition(0, 20);
+            Console.WriteLine("┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛");
+
             Console.ReadLine();
             Console.Clear();
+
+
+            Console.WriteLine("직업을 선택해 주세요.");
+
 
             Console.WriteLine("눈을 뜨자 어둠이 눈 앞을 지배하고 있다.");
             Console.ReadLine();

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\LikeLion\\projectEscapeDungeon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B9E2A2-2A66-4E76-B543-36F0A9EC6FB2}|projectEscapeDungeon\\projectEscapeDungeon.csproj|c:\\github\\likelion\\projectescapedungeon\\projectescapedungeon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B9E2A2-2A66-4E76-B543-36F0A9EC6FB2}|projectEscapeDungeon\\projectEscapeDungeon.csproj|solutionrelative:projectescapedungeon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\LikeLion\\projectEscapeDungeon\\projectEscapeDungeon\\Program.cs",
+              "RelativeDocumentMoniker": "projectEscapeDungeon\\Program.cs",
+              "ToolTip": "C:\\GitHub\\LikeLion\\projectEscapeDungeon\\projectEscapeDungeon\\Program.cs",
+              "RelativeToolTip": "projectEscapeDungeon\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwE0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:34:50.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

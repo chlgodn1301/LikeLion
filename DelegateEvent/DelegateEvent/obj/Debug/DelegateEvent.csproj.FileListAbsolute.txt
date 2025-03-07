@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.exe.config
+C:\GitHub\LikeLion\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.exe
+C:\GitHub\LikeLion\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.pdb
+C:\GitHub\LikeLion\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.exe
+C:\GitHub\LikeLion\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.pdb

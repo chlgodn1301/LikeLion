@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\LikeLion\\DelegateEvent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B59D4060-0DF0-4569-8CFF-94278F8A7CCB}|DelegateEvent\\DelegateEvent.csproj|c:\\github\\likelion\\delegateevent\\delegateevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59D4060-0DF0-4569-8CFF-94278F8A7CCB}|DelegateEvent\\DelegateEvent.csproj|solutionrelative:delegateevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\LikeLion\\DelegateEvent\\DelegateEvent\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateEvent\\Program.cs",
+              "ToolTip": "C:\\GitHub\\LikeLion\\DelegateEvent\\DelegateEvent\\Program.cs",
+              "RelativeToolTip": "DelegateEvent\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:14:11.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

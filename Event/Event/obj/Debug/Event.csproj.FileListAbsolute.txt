@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\Event\Event\bin\Debug\Event.exe.config
+C:\GitHub\LikeLion\Event\Event\bin\Debug\Event.exe
+C:\GitHub\LikeLion\Event\Event\bin\Debug\Event.pdb
+C:\GitHub\LikeLion\Event\Event\obj\Debug\Event.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\Event\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\Event\Event\obj\Debug\Event.exe
+C:\GitHub\LikeLion\Event\Event\obj\Debug\Event.pdb

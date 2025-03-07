@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\Stydy037\Stydy037\bin\Debug\Stydy037.exe.config
+C:\GitHub\LikeLion\Stydy037\Stydy037\bin\Debug\Stydy037.exe
+C:\GitHub\LikeLion\Stydy037\Stydy037\bin\Debug\Stydy037.pdb
+C:\GitHub\LikeLion\Stydy037\Stydy037\obj\Debug\Stydy037.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\Stydy037\Stydy037\obj\Debug\Stydy037.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\Stydy037\Stydy037\obj\Debug\Stydy037.exe
+C:\GitHub\LikeLion\Stydy037\Stydy037\obj\Debug\Stydy037.pdb

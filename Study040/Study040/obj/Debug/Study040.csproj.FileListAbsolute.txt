@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\Study040\Study040\bin\Debug\Study040.exe.config
+C:\GitHub\LikeLion\Study040\Study040\bin\Debug\Study040.exe
+C:\GitHub\LikeLion\Study040\Study040\bin\Debug\Study040.pdb
+C:\GitHub\LikeLion\Study040\Study040\obj\Debug\Study040.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\Study040\Study040\obj\Debug\Study040.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\Study040\Study040\obj\Debug\Study040.exe
+C:\GitHub\LikeLion\Study040\Study040\obj\Debug\Study040.pdb

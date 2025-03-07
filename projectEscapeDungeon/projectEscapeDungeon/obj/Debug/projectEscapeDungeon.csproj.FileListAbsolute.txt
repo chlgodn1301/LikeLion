@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\projectEscapeDungeon\projectEscapeDungeon\bin\Debug\projectEscapeDungeon.exe.config
+C:\GitHub\LikeLion\projectEscapeDungeon\projectEscapeDungeon\bin\Debug\projectEscapeDungeon.exe
+C:\GitHub\LikeLion\projectEscapeDungeon\projectEscapeDungeon\bin\Debug\projectEscapeDungeon.pdb
+C:\GitHub\LikeLion\projectEscapeDungeon\projectEscapeDungeon\obj\Debug\projectEscapeDungeon.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\projectEscapeDungeon\projectEscapeDungeon\obj\Debug\projectEscapeDungeon.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\projectEscapeDungeon\projectEscapeDungeon\obj\Debug\projectEscapeDungeon.exe
+C:\GitHub\LikeLion\projectEscapeDungeon\projectEscapeDungeon\obj\Debug\projectEscapeDungeon.pdb

@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\projectTravelerIdle\projectTravelerIdle\obj\Debug\projectTravelerIdle.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\projectTravelerIdle\projectTravelerIdle\obj\Debug\projectTravelerIdle.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\projectTravelerIdle\projectTravelerIdle\bin\Debug\projectTravelerIdle.exe.config
+C:\GitHub\LikeLion\projectTravelerIdle\projectTravelerIdle\bin\Debug\projectTravelerIdle.exe
+C:\GitHub\LikeLion\projectTravelerIdle\projectTravelerIdle\bin\Debug\projectTravelerIdle.pdb
+C:\GitHub\LikeLion\projectTravelerIdle\projectTravelerIdle\obj\Debug\projectTravelerIdle.exe
+C:\GitHub\LikeLion\projectTravelerIdle\projectTravelerIdle\obj\Debug\projectTravelerIdle.pdb

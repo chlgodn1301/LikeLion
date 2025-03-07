@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\SwordMaster02\SwordMaster02\bin\Debug\SwordMaster02.exe.config
+C:\GitHub\LikeLion\SwordMaster02\SwordMaster02\bin\Debug\SwordMaster02.exe
+C:\GitHub\LikeLion\SwordMaster02\SwordMaster02\bin\Debug\SwordMaster02.pdb
+C:\GitHub\LikeLion\SwordMaster02\SwordMaster02\obj\Debug\SwordMaster02.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\SwordMaster02\SwordMaster02\obj\Debug\SwordMaster02.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\SwordMaster02\SwordMaster02\obj\Debug\SwordMaster02.exe
+C:\GitHub\LikeLion\SwordMaster02\SwordMaster02\obj\Debug\SwordMaster02.pdb

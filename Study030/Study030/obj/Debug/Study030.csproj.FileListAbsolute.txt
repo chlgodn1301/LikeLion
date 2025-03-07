@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\Study030\Study030\bin\Debug\Study030.exe.config
+C:\GitHub\LikeLion\Study030\Study030\bin\Debug\Study030.exe
+C:\GitHub\LikeLion\Study030\Study030\bin\Debug\Study030.pdb
+C:\GitHub\LikeLion\Study030\Study030\obj\Debug\Study030.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\Study030\Study030\obj\Debug\Study030.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\Study030\Study030\obj\Debug\Study030.exe
+C:\GitHub\LikeLion\Study030\Study030\obj\Debug\Study030.pdb

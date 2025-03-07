@@ -1,0 +1,2 @@
+C:\GitHub\LikeLion\Study034\Study034\obj\Debug\Study034.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\Study034\Study034\obj\Debug\Study034.csproj.CoreCompileInputs.cache

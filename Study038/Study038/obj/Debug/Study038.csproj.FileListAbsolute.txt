@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\Study038\Study038\bin\Debug\Study038.exe.config
+C:\GitHub\LikeLion\Study038\Study038\bin\Debug\Study038.exe
+C:\GitHub\LikeLion\Study038\Study038\bin\Debug\Study038.pdb
+C:\GitHub\LikeLion\Study038\Study038\obj\Debug\Study038.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\Study038\Study038\obj\Debug\Study038.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\Study038\Study038\obj\Debug\Study038.exe
+C:\GitHub\LikeLion\Study038\Study038\obj\Debug\Study038.pdb
