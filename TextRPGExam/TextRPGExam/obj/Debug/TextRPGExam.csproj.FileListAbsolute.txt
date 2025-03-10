@@ -1,0 +1,7 @@
+C:\GitHub\LikeLion\TextRPGExam\TextRPGExam\obj\Debug\TextRPGExam.csproj.AssemblyReference.cache
+C:\GitHub\LikeLion\TextRPGExam\TextRPGExam\obj\Debug\TextRPGExam.csproj.CoreCompileInputs.cache
+C:\GitHub\LikeLion\TextRPGExam\TextRPGExam\bin\Debug\TextRPGExam.exe.config
+C:\GitHub\LikeLion\TextRPGExam\TextRPGExam\bin\Debug\TextRPGExam.exe
+C:\GitHub\LikeLion\TextRPGExam\TextRPGExam\bin\Debug\TextRPGExam.pdb
+C:\GitHub\LikeLion\TextRPGExam\TextRPGExam\obj\Debug\TextRPGExam.exe
+C:\GitHub\LikeLion\TextRPGExam\TextRPGExam\obj\Debug\TextRPGExam.pdb
